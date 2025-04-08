@@ -1,0 +1,117 @@
+*{
+margin: 0px;
+padding: 0px;
+background: rgb(212, 233, 233)
+}
+
+h1{
+    font:bold;
+    font-size: 20px;
+    font-family: verdana,arial,sans-serif;
+
+}
+h2{
+font:bold 14px verdana,arial,sans-serif;
+}
+
+body{
+    text-align: center;
+    background-attachment: url ;
+}
+#cuerpo {
+
+width: 960px;
+margin: 15px auto;
+text-align: left;
+}
+
+#cabecera {
+    background: rgba(183, 30, 30, 0.741);
+    border: 1px solid #999999;
+    padding: 20px;
+    text-align: center;
+}
+#menu {
+    background:  #cccccc;
+    padding: 5px, 15px;
+    background: -webkit-linear-gradient(top, #f4d7d7, #f4d7d7);
+    background: -moz-linear-gradient(top, #f4d7d7, #f4d7d7);
+}
+
+.articulo {
+    background: #FFFBCC;
+    border: 1px solid #999999;
+    padding: 20px;
+    margin-bottom: 15px;
+    -moz-border-radious: 20px;
+    -webkit-border-radius: 20px;
+    border-radius: 20px;
+    -moz-box-shadoow:  rgb(150, 150, 150) 5px 5px ;
+    -webkit-box-shadow: rgb(150, 150, 150) 5px 5px ;
+    box-shadow: rgb(150, 150, 150, ) 5px 5px ;
+}
+.articulo footer {
+    text-align: right;
+}
+
+.articulo img {
+    margin: 5px 10px 5px 0px;
+    width: 300px;
+    height: 300px;
+    
+}
+
+
+#menu li{
+    display: inline-block;
+    list-style:none;
+    padding: 5px;
+    font:bold 14px verdana,arial,sans-serif;
+}
+.nav {
+    margin: 10px;
+    display: inline-block;
+    background: salmon;
+    color: #fff;
+    padding: 10px 30px;
+    text-decoration: none;
+    -moz-border-radious: 20px;
+    -webkit-border-radius: 20px;
+    border-radius: 20px;
+    -moz-box-shadoow:  rgb(150, 150, 150) 5px 5px ;
+    -webkit-box-shadow: rgb(150, 150, 150) 5px 5px ;
+    box-shadow: rgb(150, 150, 150, ) 5px 5px ;
+
+}   
+
+#section {
+    float: left;
+    width: 220px;
+    margin: 20px;
+}
+#lateral {
+    float: left;
+    width: 220px;
+    margin: 20px;
+    padding: 20px;
+    background: #cccccc;
+    -moz-border-radious: 20px;
+    -webkit-border-radius: 20px;
+    border-radius: 20px;
+    -moz-box-shadoow:  rgb(150, 150, 150) 5px 5px ;
+    -webkit-box-shadow: rgb(150, 150, 150) 5px 5px ;
+    box-shadow: rgb(150, 150, 150, ) 5px 5px ;
+}
+#pie {
+    clear: both;
+    text-align: center;
+    padding: 20px;
+    border-top: 5px solid #999;
+
+}
+table {
+    text-shadow: #369 2px 2px 2px 2px;
+    font-family: verdana, Arial, sans-serif;
+    font-size: 12px;
+}
+
